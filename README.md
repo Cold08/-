@@ -1,4 +1,4 @@
-# -
+# 抖音评论区
 使用方法：
 浏览器安装 Tampermonkey 或 Violentmonkey。
 在扩展的“实用工具”中导入该脚本文件。
